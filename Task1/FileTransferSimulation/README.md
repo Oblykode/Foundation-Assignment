@@ -57,7 +57,7 @@ The server receives the encoded payload, decodes Base64, decrypts the data, and 
 [Reconstructed File]
 ```
 
-## Short Academic Explanation 
+## Short Explanation 
 This simulation demonstrates how application-layer data preparation supports reliable communication over web protocols.  
 In the client-server model, a file is first read as raw bytes by the client. To represent a confidentiality step, the bytes are transformed using a simple XOR-based encryption routine with a shared key. Although XOR here is intentionally basic for learning, it models the concept that data can be protected before transmission.
 
