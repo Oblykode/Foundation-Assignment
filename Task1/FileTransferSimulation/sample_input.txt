@@ -1,0 +1,2 @@
+This is a sample text file for the secure file transfer simulation.
+It demonstrates Base64 encoding and HTTP POST transmission.
