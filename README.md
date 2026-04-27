@@ -1,5 +1,3 @@
-# Foundation of Computer Science  
-
 ##  Investigation and Analysis of Computing Data for Data Management
 
 **Module Code:** ST4015CMD  
