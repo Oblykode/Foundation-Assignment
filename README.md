@@ -34,7 +34,7 @@ This repository contains all practical work, SQL scripts, simulations, and diagr
 ```
 
 
-## Task 1 – Enhancing Secure Data Exchange
+## Enhancing Secure Data Exchange
 
 ### Objective
 
@@ -72,7 +72,7 @@ python FileTransferSimulation.py
 
 
 
-## Task 2 – Student Seating Arrangement (P vs NP)
+## Student Seating Arrangement (P vs NP)
 
 ### Objective
 
@@ -120,7 +120,7 @@ mysql -u root -p < Task2/Database setup.sql
 
 
 
-## Task 3 – College Club Membership Management
+## College Club Membership Management
 
 ### Objective
 
