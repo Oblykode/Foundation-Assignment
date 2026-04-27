@@ -1,4 +1,4 @@
-##  Investigation and Analysis of Computing Data for Data Management
+###  Investigation and Analysis of Computing Data for Data Management
 
 ## Table of Contents
 
@@ -314,4 +314,4 @@ This assignment represents my original work completed in accordance with academi
 
 This academic work is submitted for educational purposes only. Unauthorized reproduction or distribution is prohibited.
 
-© 2026 Anil Tamang. All rights reserved.
+© 2026 All rights reserved.
