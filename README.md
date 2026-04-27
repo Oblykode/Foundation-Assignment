@@ -1,12 +1,5 @@
 ##  Investigation and Analysis of Computing Data for Data Management
 
-**Module Code:** ST4015CMD  
-**Student Name:** Anil Tamang  
-**Student ID:** 250592  
-**Submission Date:** 5th March 2026
-
----
-
 ## Table of Contents
 
 - [Repository Structure](#repository-structure)
@@ -17,7 +10,7 @@
 - [References](#references)
 - [Notes](#notes)
 
----
+
 
 ## Repository Structure
 
@@ -40,7 +33,6 @@ This repository contains all practical work, SQL scripts, simulations, and diagr
 └── README.md                                
 ```
 
----
 
 ## Task 1 – Enhancing Secure Data Exchange
 
@@ -78,7 +70,7 @@ python FileTransferSimulation.py
 - Security protocol handshake demonstration
 - Performance metrics and analysis
 
----
+
 
 ## Task 2 – Student Seating Arrangement (P vs NP)
 
@@ -126,7 +118,7 @@ mysql -u root -p < Task2/Database setup.sql
 - Student friendship analysis
 - City distribution statistics
 
----
+
 
 ## Task 3 – College Club Membership Management
 
@@ -207,7 +199,7 @@ ORDER BY s.StudentName;
 - Redundancy comparison (normalized vs denormalized)
 - Anomaly prevention demonstrations
 
----
+
 
 ## Installation & Setup
 
@@ -262,7 +254,7 @@ mysql -u root -p
    mysql -u root -p < Task3/club_database.sql
 ```
 
----
+
 
 ## References
 
@@ -286,7 +278,7 @@ mysql -u root -p
 
 8. **RFC 8446** (2018). *The Transport Layer Security (TLS) Protocol Version 1.3*. IETF.
 
----
+
 
 ## Notes
 
@@ -311,23 +303,12 @@ mysql -u root -p
 **Issue**: Foreign key constraint errors  
 **Solution**: Load tables in correct order (parent tables before child tables)
 
----
+
 
 ## Academic Integrity Statement
 
 This assignment represents my original work completed in accordance with academic integrity policies. All external sources, code snippets, and references have been properly cited. The implementations demonstrate understanding of fundamental computer science concepts including computational complexity, database normalization, and secure data transmission.
 
----
-
-## Prepared By
-
-**Name:** Anil Tamang  
-**Module:** Foundation of Computer Science (ST4015CMD)  
-**Institution:** Softwarica College of IT & E-Commerce  
-**Academic Year:** 2025/2026  
-**Submission Date:** 5th March 2026
-
----
 
 ## License
 
